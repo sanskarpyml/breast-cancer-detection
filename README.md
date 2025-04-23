@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="breast-cancer-model.jpeg" alt="Breast Cancer Detection Model Banner" width="500" height="600" >
+  <img src="breast-cancer-model.jpeg" alt="Breast Cancer Detection Model Banner" width="300" height="500" >
 </p>
 
 <h1 align="center">Breast Cancer Detection Model</h1>
