@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="breast-cancer-model.jpeg" alt="Breast Cancer Detection Model Banner" >
+  <img src="breast-cancer-model.jpeg" alt="Breast Cancer Detection Model Banner" width="500" height="600" >
 </p>
 
 <h1 align="center">Breast Cancer Detection Model</h1>
@@ -50,7 +50,7 @@ This project is focused on building a machine learning model that predicts wheth
 ## 🔍 Key Visualizations
 
 <p align="center">
-  <img src="sample-visualizations.jpeg" alt="Charts and Visuals" width="200">
+  <img src="sample-visualization.jpeg" alt="Charts and Visuals" width="600">
 </p>
 
 ---
